@@ -1,0 +1,18 @@
+1671274532083	geckodriver	INFO	Listening on 127.0.0.1:38477
+1671274532628	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "59843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZPbQRX"
+*** You are running in headless mode.
+Gtk-Message: 15:55:32.666: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1671274533455	Marionette	INFO	Marionette enabled
+1671274533461	Marionette	INFO	Listening on port 42401
+Read port: 42401
+WebDriver BiDi listening on ws://127.0.0.1:59843
+1671274533661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZPbQRX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59843/devtools/browser/c50be207-1191-4578-82f8-4a42d66df46e
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+JavaScript error: https://youth.2dsports.org/assets/frontend/js/m-112.js, line 1: TypeError: e is undefined
+JavaScript error: https://tools.luckyorange.com/messenger/js/chunk-vendors.34b67c87.js, line 7: Error: Request failed with status code 404
+1671960622649	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1672233179565	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
