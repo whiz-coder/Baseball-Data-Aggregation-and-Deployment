@@ -1,0 +1,3 @@
+# Baseball-Data-Aggregation-and-Deployment
+
+The aim of this project is to automate the process of scraping data from four baseball websites and updating the information regularly on an AWS EC2 machine. By collecting event details such as event ID, event name, date of the event, ticket prices, and event links, the project aims to provide a consolidated and up-to-date database of baseball events. This automation enables users to access accurate and timely information about upcoming baseball events, facilitating informed decision-making and enhancing user experience in exploring and attending baseball games.
